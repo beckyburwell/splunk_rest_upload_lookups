@@ -18,7 +18,9 @@ $ ./splunk_rest_upload_lookups.py https://myhead:9999 ~/mylookup.csv search
 Splunk username: 
 Splunk password:
 
-2023-04-26T16:26:11.648Z splunk_rest_upload_lookups: INFO: [success] file: '/Users/burwell/mylookup.csv' uploaded to Lookup editor handler https://myhead:9999/services/data/lookup_edit/lookup_contents and saved in splunk app 'search'
+2023-04-26T16:26:11.648Z splunk_rest_upload_lookups: INFO: [success]
+file: '/Users/burwell/mylookup.csv' uploaded to Lookup editor
+handler https://myhead:9999/services/data/lookup_edit/lookup_contents and saved in splunk app 'search'
 
 ```
 
